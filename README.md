@@ -3,7 +3,7 @@
 
 CrewAI_StockAgents é um projeto de agentes inteligentes focados em análise e previsão de ações no mercado financeiro. Utilizando a combinação de APIs e modelos de aprendizado de máquina, CrewAI_StockAgents oferece uma maneira automatizada de pesquisar dados financeiros, analisar o desempenho das ações e gerar relatórios detalhados.
 
-![Gif](gif.png)
+![Gif](gif.gif)
 
 
 ## Funcionalidades ✨
