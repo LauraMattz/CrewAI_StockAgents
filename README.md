@@ -3,6 +3,9 @@
 
 CrewAI_StockAgents é um projeto de agentes inteligentes focados em análise e previsão de ações no mercado financeiro. Utilizando a combinação de APIs e modelos de aprendizado de máquina, CrewAI_StockAgents oferece uma maneira automatizada de pesquisar dados financeiros, analisar o desempenho das ações e gerar relatórios detalhados.
 
+![Gif](gif.png)
+
+
 ## Funcionalidades ✨
 
 - **Pesquisa de Dados**: Coleta de dados históricos de ações usando a API do **Yahoo Finance**.
@@ -119,7 +122,7 @@ Os relatórios gerados podem ser enviados automaticamente para um canal do **Tel
    Após gerar o relatório, basta usar o método de envio para o Telegram.
 
 ```python
-await send_all_reports_to_telegram(bot_token, '-1002335015160')
+await send_all_reports_to_telegram(bot_token, '@IDCANAL')
 ```
 
 **Espaço para o print**:
